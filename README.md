@@ -4,7 +4,7 @@
   
   <br>
   
-  ### Useable
+  ### Be used to
   <div>
     <img src="https://img.shields.io/badge/-Java-orange?logo=java&logoColor=navy&style=flat">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">
