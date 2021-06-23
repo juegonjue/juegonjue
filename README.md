@@ -1,7 +1,8 @@
-<div align = "center">
+<div align="center">
   <h2> Welcome to Jiwoo's github ! 🤩 </h2>
-  <h4> 안녕하세요 ! 백엔드 개발자를 지망하는 대학생입니다:D 🐥 </h4>
-<br>
+  <h4> <p>안녕하세요 ! 백엔드 개발자를 지망하는 대학생 이지우입니다 :D </p></h4>
+  
+  <br>
   
   ### Useable
   <div>
@@ -31,7 +32,10 @@
   <div>
     <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat"> jueleejue@gmail.com
   </div>
-<div>
+  
+</div>
+  
+  
 <!--
 **juegonjue/juegonjue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
