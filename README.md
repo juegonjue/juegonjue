@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white&style=flat">
   </div>
 
-  ### Link
+  ### Link (click!🔽 )
   <div>
     <a href="https://velog.io/@juejue">
       <img src="https://img.shields.io/badge/-juejue Velog-60C69A?logo=vimeo&logoColor=white&style=flat">
@@ -32,10 +32,12 @@
   <div>
     <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat"> jueleejue@gmail.com
   </div>
+ 
+  <br><br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuegonjue&count_bg=%23FFDEDE&title_bg=%23FF7F7F&icon=&icon_color=%23FF3131&title=hits&edge_flat=false"/></a>
   
 </div>
-  
-  
+
 <!--
 **juegonjue/juegonjue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
