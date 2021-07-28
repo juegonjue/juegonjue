@@ -1,10 +1,10 @@
-<div align="center">
+<div align="left">
   <h2> Welcome to Jiwoo's github ! </h2>
-  <h4> <p>안녕하세요 ! 백엔드 개발자를 지망하는 대학생 이지우입니다 :D </p></h4>
+  <h4> <p>안녕하세요! 백엔드 개발자를 지망하는 대학생 이지우입니다.</p></h4>
   
   <br>
   
-  ### Be used to
+  ### 🌿 주로 사용해요
   <div>
     <img src="https://img.shields.io/badge/-Java-orange?logo=java&logoColor=navy&style=flat">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white&style=flat">
   </div>
 
-  ### Link (click!🔽 )
+  ### 🌿 링크 (클릭!🔽 )
   <div>
     <a href="https://velog.io/@juejue">
       <img src="https://img.shields.io/badge/-juejue Velog-60C69A?logo=vimeo&logoColor=white&style=flat">
@@ -28,7 +28,7 @@
     </a>  
   </div>
   
-  ### Mail
+  ### 🌿 이메일
   <div>
     <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat"> jueleejue@gmail.com
   </div>
