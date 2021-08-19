@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white&style=flat">
   </div>
 
-  ### 🌿 링크 (클릭!🔽 )
+  ### 🌿 
   <div>
     <a href="https://velog.io/@juejue">
       <img src="https://img.shields.io/badge/-juejue Velog-60C69A?logo=vimeo&logoColor=white&style=flat">
