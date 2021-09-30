@@ -4,7 +4,7 @@
   
   <br>
   
-  ### 🌿 주로 사용해요
+  ### 🌿 good at
   <div>
     <img src="https://img.shields.io/badge/-Java-orange?logo=java&logoColor=navy&style=flat">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white&style=flat">
   </div>
 
-  ### 🌿 
+  ### 🌿 activity
   <div>
     <a href="https://velog.io/@juejue">
       <img src="https://img.shields.io/badge/-juejue Velog-60C69A?logo=vimeo&logoColor=white&style=flat">
@@ -28,7 +28,7 @@
     </a>  
   </div>
   
-  ### 🌿 이메일
+  ### 🌿 contact me 
   <div>
     <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat"> jueleejue@gmail.com
   </div>
