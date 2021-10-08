@@ -1,6 +1,6 @@
 <div align="left">
   <h2> Welcome to Jiwoo's github ! </h2>
-  <h4> <p>안녕하세요! 백엔드 개발자를 지망하는 대학생 이지우입니다.</p></h4>
+  <h4> <p>안녕하세요! 이지우입니다.</p></h4>
   
   <br>
   
