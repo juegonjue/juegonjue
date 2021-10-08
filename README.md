@@ -23,8 +23,8 @@
     <a href="https://velog.io/@juejue">
       <img src="https://img.shields.io/badge/-juejue Velog-60C69A?logo=vimeo&logoColor=white&style=flat">
     </a>
-    <a href="https://github.com/juegonjue">
-      <img src="https://img.shields.io/badge/-juegonjue Github-181717?logo=github&logoColor=white&style=flat">
+    <a href="https://github.com/jueleejue">
+      <img src="https://img.shields.io/badge/-jueleejue Github-181717?logo=github&logoColor=white&style=flat">
     </a>  
   </div>
   
