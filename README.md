@@ -1,8 +1,10 @@
-<div align="left">
-  <h2> Welcome to Jiwoo's github ! </h2>
-  <h4> <p>안녕하세요! 이지우입니다.</p></h4>
+<div align="center">
+  <h2> 🍒 Jiwoo, Lee 🍒 </h2>
+  <h4> <p>안녕하세요! 백엔드 서버 개발자를 희망하는 이지우입니다.</p></h4>
+  <p> 📧  jueleejue@gmail.com </p>  
+</div>
   
-  <br>
+<!--   <br>
   
   ### 🌿 good at
   <div>
@@ -34,9 +36,9 @@
   </div>
  
   <br><br>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuegonjue&count_bg=%23FFDEDE&title_bg=%23FF7F7F&icon=&icon_color=%23FF3131&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuegonjue&count_bg=%23FFDEDE&title_bg=%23FF7F7F&icon=&icon_color=%23FF3131&title=hits&edge_flat=false"/></a> -->
   
-</div>
+
 
 <!--
 **juegonjue/juegonjue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
