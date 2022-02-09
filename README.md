@@ -1,6 +1,6 @@
 <div align="center">
   <h2> 🍒 Jiwoo, Lee 🍒 </h2>
-  <h4> <p>안녕하세요! 백엔드 서버 개발자를 희망하는 이지우입니다.</p></h4>
+  <h4> <p>백엔드 서버 개발자 이지우입니다.</p></h4>
   <p> 📧  jueleejue@gmail.com </p>  
 </div>
   
